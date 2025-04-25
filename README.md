@@ -48,8 +48,8 @@ incident-log-api/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mohdajeem/-HumanChain-AI-Safety-Incident-Log-API.git
-cd -HumanChain-AI-Safety-Incident-Log-API
+https://github.com/mohdajeem/HumanChain-AI-Safety-Incident-Log-API.git
+cd HumanChain-AI-Safety-Incident-Log-API
 ```
 
 ### 2. Install Dependencies
