@@ -49,7 +49,7 @@ incident-log-api/
 
 ```bash
 git clone https://github.com/mohdajeem/-HumanChain-AI-Safety-Incident-Log-API.git
-cd HumanChain-AI-Safety-Incident-Log-API
+cd -HumanChain-AI-Safety-Incident-Log-API
 ```
 
 ### 2. Install Dependencies
